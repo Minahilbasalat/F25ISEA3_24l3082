@@ -1,0 +1,5 @@
+﻿  24l3082_Question_1.cpp
+  24l3082_Question_2.cpp
+C:\Users\user\source\repos\Project10\Project10\24l3082_Question_2.cpp(105,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project10.vcxproj -> C:\Users\user\source\repos\Project10\x64\Debug\F25ISEA3_24l3082.exe
